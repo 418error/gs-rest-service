@@ -9,6 +9,7 @@
 #### The steps...
 
 1. Create a project folder
+
   ```
   mkdir gs-rest-service
   cd gs-rest-service
