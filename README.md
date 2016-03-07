@@ -86,6 +86,7 @@
 6. Make it executable
   ```
   touch src/main/java/hello/Application.java
+  atom src/main/java/hello/Application.java
   ```
   Add the following
 
